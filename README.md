@@ -7,10 +7,10 @@ Les compagnies d'assurance doivent analyser en profondeur les sinistres, les con
  . Centralisation et stockage des données des clients, des contrats, des sinistres et des données externes (météo, sinistres FEMA) dans Azure Data Lake Storage (ADLS).  
  
 . Automatisation du processus ETL avec Azure Data Factory (ADF) pour transférer les données brutes vers une base de données SQL après transformation.  
-.
-Traitement des données avec Azure Databricks pour effectuer des transformations avancées (nettoyage, enrichissement, agrégation).  
-.
-Stockage structuré des données dans Azure SQL Database pour permettre des analyses SQL avancées et la création de rapports.  
+
+.Traitement des données avec Azure Databricks pour effectuer des transformations avancées (nettoyage, enrichissement, agrégation).  
+
+.Stockage structuré des données dans Azure SQL Database pour permettre des analyses SQL avancées et la création de rapports.  
 
 .Visualisation des résultats avec Power BI.  
 
